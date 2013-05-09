@@ -1,0 +1,1 @@
+<liferay-ui:message key='msg-error-not-available-server' />

@@ -1,0 +1,14 @@
+.weather{
+		cellpadding:10px;
+		cellspacing:10px;
+}
+.alarm{
+	font-size:14px;
+	font-weight:bold;
+	color: #ff0000;
+}
+.no_alarm{
+	font-size:14px;
+	font-weight:bold;
+	color:#006400;
+}
